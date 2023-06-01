@@ -1,0 +1,19 @@
+{
+  "name": "web-portfolio",
+  "version": "1.0.0",
+  "description": "A modern web application - Web Portfolio",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "live-server"
+  },
+  "keywords": [
+    "web",
+    "html",
+    "css",
+    "javascript",
+    "responsive"
+  ],
+  "author": "Disha Singh",
+  "license": "MIT"
+}
